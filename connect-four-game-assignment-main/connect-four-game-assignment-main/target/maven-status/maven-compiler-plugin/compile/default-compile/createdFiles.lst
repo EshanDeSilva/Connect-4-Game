@@ -1,0 +1,15 @@
+lk\ijse\dep\service\impl\Player.class
+lk\ijse\dep\util\DEPAlert$1.class
+lk\ijse\dep\service\Board.class
+lk\ijse\dep\Launcher.class
+lk\ijse\dep\service\impl\AiPlayer.class
+lk\ijse\dep\controller\BoardController$1.class
+lk\ijse\dep\AppInitializer.class
+lk\ijse\dep\controller\BoardController.class
+lk\ijse\dep\service\impl\BoardImpl.class
+lk\ijse\dep\util\DEPAlert.class
+lk\ijse\dep\service\BoardUI.class
+lk\ijse\dep\service\impl\HumanPlayer.class
+lk\ijse\dep\controller\CreatePlayerController.class
+lk\ijse\dep\service\impl\Winner.class
+lk\ijse\dep\service\Piece.class
